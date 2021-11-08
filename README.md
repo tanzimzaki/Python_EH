@@ -1,5 +1,5 @@
 # Python_EH
-Sample Templates to Deploy at your Workspace (Ethcial Hacking)
+Sample Templates to Deploy at your Workspace (Ethical Hacking)
 Instructions:
 
 Please make sure all the files are saved in the same directory to initiate the activities of Port scanning and Password Cracker. 
